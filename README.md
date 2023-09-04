@@ -1,1 +1,1 @@
-This repository houes my lernings on C programing at ALX
+This repository houses my learnings on C programming at ALX
